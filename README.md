@@ -1,4 +1,3 @@
-)
 📋 Assignment Overview
 This project implements a Stroke Prediction System using an Artificial Neural Network (ANN) to predict the likelihood of a patient having a stroke based on various health and demographic factors. The system is built using the Kaggle Stroke Prediction Dataset and includes comprehensive data preprocessing, model training, and evaluation.
 
